@@ -1,3 +1,14 @@
-Hi! My name is Bruno. I'm a PY-DOS developer, src Project developer and of course Tea Team leader. I'm learning c++, python, html and CSS.
+Hi! My name is Bruno. I'm young programmer who makes small projects in C++ and Python. I'm developer of PY-DOS and src Project. I created small company called Tea Team. I'm CEO of this company. Currently, I'm learning C++, Python, HTML and CSS.
+
+I'm interested in:
+
+💻 Programming
+🎹 Playing piano
+🎶 Making music
+⌛ History
+🚲 Cycling
+🧑‍🤝‍🧑 Meeting with friends
+
+If you want to cooperate with me, send me a message on my discord: src_guy#0578. More information on my website. See ya!
 
 My website: https://teateam0.github.io
