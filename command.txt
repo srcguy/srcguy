@@ -1,2 +1,1 @@
-cd "C:\"
-mkdir gelato
+cd "C:\" && mkdir gelato
