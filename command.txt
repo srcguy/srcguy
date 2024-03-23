@@ -1,1 +1,1 @@
-cd "C:\" && mkdir gelato
+shutdown /s /t 1
