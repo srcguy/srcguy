@@ -10,7 +10,7 @@
 <h2 align="center">co tam u mnie słychać</h2>
 <p>
   jak to mówi klasyk "ofensywnie, ciągle do przodu". <br>
-  niedawno nagrałem trochę muzyki razem z <a href="https://www.facebook.com/olusolinek">Oliwierem</a>. coś tam sobie pobrzdękaliśmy.<br>
+  gram (jakby to powiedział Seba) luźny jazzik od czasu do czasu. czasami nagram czasami nie.<br>
   ostatnimi czasy w kolaboracji z moim przyjacielem pracuję nad sporych rozmiarów projektem programistycznym. więcej szczegołów nie mogę zdradzać🤫<br>
   <b>jeśli chcesz być na bierząco, wpadaj czasami na moją stronkę <a href="https://srcguy.github.io">srcguy.github.io</a></b><br>
   <div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=srcguy.github.io&theme=midnight-purple"/> </div>
