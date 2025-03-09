@@ -11,8 +11,8 @@
 <p>
   jak to mówi klasyk "ofensywnie, ciągle do przodu". <br>
   gram (jakby to powiedział Seba) luźny jazzik od czasu do czasu. czasami nagram czasami nie.<br>
-  ostatnimi czasy w kolaboracji z moim przyjacielem pracuję nad sporych rozmiarów projektem programistycznym. więcej szczegołów nie mogę zdradzać🤫<br>
-  <b>jeśli chcesz być na bierząco, wpadaj czasami na moją stronkę <a href="https://srcguy.github.io">srcguy.github.io</a></b><br>
+  od października 2024 w kolaboracji z moim przyjacielem pracuję nad sporych rozmiarów projektem programistycznym. więcej szczegołów nie mogę zdradzać🤫<br>
+  <b>jeśli chcesz być na bierząco, obczaj moją stronkę <a href="https://srcguy.github.io">srcguy.github.io</a></b><br>
   <div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=srcguy.github.io&theme=midnight-purple"/> </div>
 </p>
 
