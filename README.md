@@ -18,11 +18,11 @@
 
 <h2 align="center">jakie projekty prowadzę</h2>
 <p>
-  jak narazie skupiam się nad dwoma rzeczami: stocklens i brutTOnetto.<br>
+  jak narazie skupiam się nad dwoma rzeczami: <i>Stocklens</i> i <i>brutTOnetto: Workplace</i>(starszy brat obecnej wersji brutTOnetto).<br>
   w wolnych chwilach rozwijam te projekty, ucząc się przy okazji nowych rzeczy.<br>
   czasami będę tu wrzucał jakiś szkolny chłam. szarałt ekonom.<br>
    <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=tradelens&theme=midnight-purple"/> 
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=multinote&theme=midnight-purple"/> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=stocklens&theme=midnight-purple"/> 
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=brutTOnetto&theme=midnight-purple"/> 
    </div>
 </p>
