@@ -5,7 +5,7 @@
   programista, muzyk, uczeń. piszę aplikacje webowe i desktopowe, a od czasu do czasu pogram sobie na pianinku.
 </p>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcguy&theme=midnight-purple&show_icons=true&layout=compact"/> </div>
+<div align="center">  </div>
 
 <h2 align="center">co tam u mnie słychać</h2>
 <p>
