@@ -12,7 +12,7 @@
   Aktualnie na tapecie mam dwa projekty: <i>Stocklens</i> i <i>brutTOnetto: Workplace</i>(starszy brat obecnej wersji brutTOnetto)<br>
   Wierzę, że najlepszym sposobem nauki jest praktyka, więc nie boję się eksperymentować.<br>
   W czasie pracy słucham podcastów lub wideo esejów, zglębiajac przy okazji wiedzę z róznych dziedzin m. in. z ekonomii, historii lub muzyki.<br>
-  <b>Jeśli chcesz być na bierząco, sprawdź moją stronkę <a href="https://srcguy.github.io">srcguy.github.io</a></b><br>
+  <b>Jeśli chcesz być na bieżąco, sprawdź moją stronkę <a href="https://srcguy.github.io">srcguy.github.io</a></b><br>
   <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=stocklens&theme=midnight-purple"/> 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=srcguy&repo=brutTOnetto&theme=midnight-purple"/>  
