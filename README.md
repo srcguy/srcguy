@@ -7,7 +7,7 @@
 
 <h2 align="center">Nad czym pracuję</h2>
 <p>
-  Aktualnie rozwijam swój mały projekcik w C++. Za niedługo wezmę coś więcej na tapet<br>
+  Aktualnie odbywam praktykę zawodową, a w wolnym czasie wdrażam pracę konkursową <a href="https://tourdeapp.com/">TdA26</a>. Za niedługo wezmę coś więcej na tapet<br>
   Wierzę, że najlepszym sposobem nauki jest praktyka, więc nie boję się eksperymentować.<br>
   W czasie pracy słucham podcastów lub wideo esejów, zglębiajac przy okazji wiedzę z róznych dziedzin m. in. z ekonomii, historii lub muzyki.<br>
   <b>Jeśli chcesz być na bieżąco, sprawdź moją stronę <a href="https://brunoszewczyk.pl">brunoszewczyk.pl</a></b><br>
